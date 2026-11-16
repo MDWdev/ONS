@@ -11,10 +11,11 @@ A student e-commerce website project for **One Night Standalone**, a small busin
 - About
 
 ## Proposed feature roadmap
-- **Week 1 (November 22, 2026):** Repository setup, HTML scaffolding, visual theme, homepage content (6 hours).
-- **Week 2 (November 29, 2026):** Product data and shop grid, product details, responsive styles (8 hours).
-- **Week 3 (December 6, 2026):** Cart interaction and checkout form with client-side validation (9 hours).
-- **Week 4 (December 13, 2026):** Accessibility review, testing, documentation, and final polish (7 hours).
+- **Week 1 (November 15, 2026)** Repository setup, visual theme, mockup (3 hours).
+- **Week 2 (November 22, 2026):** HTML scaffolding, homepage content (4 hours).
+- **Week 3 (November 29, 2026):** Product data and shop grid, product details, responsive styles (8 hours).
+- **Week 4 (December 6, 2026):** Cart interaction and checkout form with client-side validation (9 hours).
+- **Week 5 (December 13, 2026):** Accessibility review, testing, documentation, and final polish (7 hours).
 
 ## Scope
 The initial site is a course prototype. Checkout is a demonstration workflow; it will not collect real card data or process live payments. Products and prices in early mock-ups are illustrative.
